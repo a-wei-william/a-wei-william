@@ -15,7 +15,7 @@ My name is William 🙂 I'm interested in healthcare application of AI/ML 🏥
 
 ## 🔧  Languages/Tools:
 <p>
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />. 
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="40" height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"/>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />      
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> 
