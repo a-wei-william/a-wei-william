@@ -1,19 +1,18 @@
-# Hi there 👋
 
-<!--
-**a-wei-william/a-wei-william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=800&height=70&duration=5000&lines=Hi+there👋+I'm+William🙂;" />
+</h1>
 
-My name is William 🙂 I'm interested in healthcare application of AI/ML 🏥
+Pediatric trainee with special interest in healthcare applications of AI/ML 🏥
 
-## 🗂️  Highlight Project
+## Highlight Projects 🗂️
 <p>
-  <a href="https://github.com/rcpch/digital-growth-charts-server">digital-growth-charts-server </a>
+  <a href="https://github.com/a-wei-william/Discharge_Instruction_Generator"> Discharge Instruction Generator</a>
   
-  <a href="https://github.com/rcpch/digital-growth-charts-documentation">digital-growth-charts-documentation</a>
+  <a href="https://github.com/rcpch/digital-growth-charts-server">RCPCH Digital Growth-charts </a>
 </p>
 
-## 🔧  Languages/Tools:
+## Languages/Tools 🛠️
 <p>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="40" height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"/>
